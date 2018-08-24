@@ -1,0 +1,1 @@
+# UWPD3D11VertexAnimationSample
